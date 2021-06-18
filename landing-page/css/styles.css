@@ -229,7 +229,7 @@ section.your-active-class .landing__container::after {
 	}
 }
 
-#myBtn {
+#top {
     display: none; 
     position: fixed; 
     bottom: 20px; 
@@ -245,6 +245,6 @@ section.your-active-class .landing__container::after {
     font-size: 18px; 
 }
 
-#myBtn:hover {
+#top:hover {
 background-color: #555
 }
